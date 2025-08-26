@@ -1,7 +1,7 @@
 # Hey, I'm Gradio Guy 👋
 
-<div style="text-align: center;">
-  ![Alt text for the image](Logo.png)
+<div align="center">
+  <img src="Logo.jpg" alt="Description of your image">
 </div>
 
 **Empowering developers to build and share delightful machine learning apps with Gradio!**
