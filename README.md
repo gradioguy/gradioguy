@@ -1,6 +1,6 @@
-### Hey, I'm Gradio Guy 👋
+# Hey, I'm Gradio Guy 👋
 
-![Alt text](Logo Main.png)
+![Alt text](Logo Main)
 
 **Empowering developers to build and share delightful machine learning apps with Gradio!**
 
