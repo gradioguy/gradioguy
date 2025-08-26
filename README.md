@@ -1,10 +1,10 @@
 # Hey, I'm Gradio Guy 👋
 
-\<p align="center"\>
-\<img src="Logo.png" alt="Alt text for the image"\>
-\</p\>
+<p align="center"
+<img src="Logo.png" alt="Alt text for the image">
+</p>
 
-**Empowering developers to build and share delightful machine learning apps with Gradio\!**
+**Empowering developers to build and share delightful machine learning apps with Gradio!**
 
 I'm dedicated to exploring and teaching everything about Gradio, the fastest way to create and share user interfaces for your Python code. Whether you're building a simple function or a complex AI application, I'm here to show you how to do it with style and efficiency.
 
@@ -19,9 +19,9 @@ I'm dedicated to exploring and teaching everything about Gradio, the fastest way
 
 -----
 
-### Let's Collaborate\!
+### Let's Collaborate!
 
   - **Follow me**: Follow `@gradioguy` to see what I'm working on.
   - **Open to ideas**: Have a Gradio topic you'd like to learn about? Let me know\!
 
-Happy coding\!
+Happy coding!
