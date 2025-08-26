@@ -21,6 +21,5 @@ I'm dedicated to exploring and teaching everything about Gradio, the fastest way
 
 -   **Follow me**: Follow `@gradioguy` to see what I'm working on.
 -   **Open to ideas**: Have a Gradio topic you'd like to learn about? Let me know!
--   **Contribute**: Feel free to open an issue or pull request on any of my projects.
 
 Happy coding!
