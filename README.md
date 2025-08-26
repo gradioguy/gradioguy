@@ -1,6 +1,8 @@
 # Hey, I'm Gradio Guy 👋
 
-![Alt text for the image](Logo.png)
+<div align="center">
+  ![Alt text for the image](Logo.png)
+</div>
 
 **Empowering developers to build and share delightful machine learning apps with Gradio!**
 
